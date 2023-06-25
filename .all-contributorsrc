@@ -2397,6 +2397,96 @@
       "contributions": [
         "code"
       ]
+    },
+    {
+      "login": "bharathkalyans",
+      "name": "Bharath Kalyan S",
+      "avatar_url": "https://avatars.githubusercontent.com/u/49526472?v=4",
+      "profile": "https://www.linkedin.com/in/bharathkalyans/",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "saiteja55",
+      "name": "Saiteja Reddy",
+      "avatar_url": "https://avatars.githubusercontent.com/u/13088886?v=4",
+      "profile": "https://www.facebook.com/saiteja.reddy.94",
+      "contributions": [
+        "translation"
+      ]
+    },
+    {
+      "login": "TheClerici",
+      "name": "Enrique Clerici",
+      "avatar_url": "https://avatars.githubusercontent.com/u/115318468?v=4",
+      "profile": "http://twitch.tv/clerici",
+      "contributions": [
+        "translation"
+      ]
+    },
+    {
+      "login": "ramilS",
+      "name": "Ramil Sayetov",
+      "avatar_url": "https://avatars.githubusercontent.com/u/13589365?v=4",
+      "profile": "https://github.com/ramilS",
+      "contributions": [
+        "translation"
+      ]
+    },
+    {
+      "login": "pikapiu",
+      "name": "东方未白",
+      "avatar_url": "https://avatars.githubusercontent.com/u/50656114?v=4",
+      "profile": "https://pkq.xyz",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "swashb0ckler",
+      "name": "Fredrik Sejr",
+      "avatar_url": "https://avatars.githubusercontent.com/u/62488841?v=4",
+      "profile": "https://github.com/swashb0ckler",
+      "contributions": [
+        "translation"
+      ]
+    },
+    {
+      "login": "akshatarora0013",
+      "name": "akshatarora0013",
+      "avatar_url": "https://avatars.githubusercontent.com/u/102645021?v=4",
+      "profile": "https://github.com/akshatarora0013",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "MugheesQasim",
+      "name": "Mughees Qasim",
+      "avatar_url": "https://avatars.githubusercontent.com/u/45170085?v=4",
+      "profile": "https://mugheesqasimmq.wixsite.com/portfolio-website",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "behappyleee",
+      "name": "behappyleee",
+      "avatar_url": "https://avatars.githubusercontent.com/u/72903623?v=4",
+      "profile": "https://github.com/behappyleee",
+      "contributions": [
+        "translation"
+      ]
+    },
+    {
+      "login": "Ayush-Thakur-geek",
+      "name": "Ayush Thakur",
+      "avatar_url": "https://avatars.githubusercontent.com/u/116510022?v=4",
+      "profile": "https://github.com/Ayush-Thakur-geek",
+      "contributions": [
+        "translation"
+      ]
     }
   ],
   "contributorsPerLine": 7,
@@ -2405,5 +2495,6 @@
   "repoType": "github",
   "repoHost": "https://github.com",
   "skipCi": true,
-  "commitConvention": "angular"
+  "commitConvention": "angular",
+  "commitType": "docs"
 }
